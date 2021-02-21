@@ -6,10 +6,10 @@ Hello everyone, welcome or furnize - the virtual solution for selecting your fav
 
 # cost: _$50_
 
--light weight.
--perfect for childerns
--modular
--four pillos free :)
+- light weight.
+- perfect for childerns
+- modular
+- four pillos free :)
 
 
 
