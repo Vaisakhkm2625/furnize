@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to furnize
 
 You can use the [editor on GitHub](https://github.com/Vaisakhkm2625/Arjs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
