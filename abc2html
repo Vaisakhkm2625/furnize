@@ -21,7 +21,7 @@
         <a-assets-item
           id="model"
           response-type="array-buffer"
-          src="https://cdn.glitch.com/c2ea80ff-5198-42ee-8ac5-4c8edf0389c0%2Fuploads_files_2750832_lowtable.glb?v=1613892030864">
+          src="uploads_files_2750832_lowtable.glb">
         </a-assets-item> 
       </a-assets>
       <a-marker present="hiro">
